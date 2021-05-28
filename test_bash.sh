@@ -1,0 +1,1 @@
+python source/main.py --train_path ./dataset/mini_test/test.json --valid_path ./dataset/mini_test/test.json --test_path ./dataset/mini_test/test.json

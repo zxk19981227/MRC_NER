@@ -1,0 +1,53 @@
+[
+  {
+    "context": "Xinhua News Agency , Shanghai , August 31st , by reporter Jierong Zhou",
+    "end_position": [
+      4
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Xinhua News Agency , Shanghai , August 31st , by reporter Jierong Zhou",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Xinhua News Agency , Shanghai , August 31st , by reporter Jierong Zhou",
+    "end_position": [
+      10,
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "0.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "10;10",
+      "10;12"
+    ],
+    "start_position": [
+      10,
+      10
+    ]
+  }
+]
